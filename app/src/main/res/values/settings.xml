@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="select_date_format">Select Date Format</string>
+    <string name="date_format">Choose date format</string>
+    <string-array name="date_format_entries">
+        <item>01/01/2024</item>
+        <item>01 de janeiro de 2024</item>
+    </string-array>
+    <string-array name="date_format_values">
+        <item>numeric</item>
+        <item>textual</item>
+    </string-array>
+</resources>
